@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventStoreTest", "EventStoreTest\EventStoreTest.csproj", "{657AFAAA-5DD6-4458-83BD-84877A6AB62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventStoreRepository.Common", "EventStoreRepository\src\EventStoreRepository.Common\EventStoreRepository.Common.csproj", "{ADAF8F97-E63E-4BA3-8317-D4FB56540E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPopulator", "DataPopulator\DataPopulator.csproj", "{F977F6D8-0C82-4CF4-99FE-A5AC76DF7DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6615540C-F1A9-4283-8A63-D915AA45769F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657AFAAA-5DD6-4458-83BD-84877A6AB62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657AFAAA-5DD6-4458-83BD-84877A6AB62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657AFAAA-5DD6-4458-83BD-84877A6AB62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657AFAAA-5DD6-4458-83BD-84877A6AB62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAF8F97-E63E-4BA3-8317-D4FB56540E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF8F97-E63E-4BA3-8317-D4FB56540E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF8F97-E63E-4BA3-8317-D4FB56540E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF8F97-E63E-4BA3-8317-D4FB56540E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F977F6D8-0C82-4CF4-99FE-A5AC76DF7DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F977F6D8-0C82-4CF4-99FE-A5AC76DF7DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F977F6D8-0C82-4CF4-99FE-A5AC76DF7DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F977F6D8-0C82-4CF4-99FE-A5AC76DF7DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6615540C-F1A9-4283-8A63-D915AA45769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6615540C-F1A9-4283-8A63-D915AA45769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6615540C-F1A9-4283-8A63-D915AA45769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6615540C-F1A9-4283-8A63-D915AA45769F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

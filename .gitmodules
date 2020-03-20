@@ -1,0 +1,3 @@
+[submodule "EventStoreRepository"]
+	path = EventStoreRepository
+	url = https://github.com/Swahn-io/EventStoreRepository.git
